@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    color: #ffffff;
+    margin: 15px 6px;
+}
+.bg{
+    background-color: #8b0000;
+    border-radius: 4px;
+}
+.title{
+    font-size: 60px;
+    padding-top: 50px;
+}
+.title2{
+    color: #b0b6b6;
+}
+h3{
+    color: #ffffff;
+}
+.hhead{
+    text-align: center;
+    display: block;
+}
+.bgimage{
+    background-image: url(../images/7.jpg);
+    margin: 10px 10px;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: rgba(124, 21, 21, 0.5);
+    
+}
+.history{
+    display: block;
+    line-height: 30px;
+    max-width: 500px;
+    margin: auto;
+    text-align: left;
+}
+.i7{
+    width: 800px;
+    padding: 10px;
+}
